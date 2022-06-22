@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 touch up_to_date
+=======
+git pull https://github.com/sedoobitto/alx-zero_day.git
+>>>>>>> 1241bba04c818ed10f40f2f579e4786722e2d707
